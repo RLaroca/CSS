@@ -1,5 +1,5 @@
 # CSS
-## For New and coll thiongs about it
+## For New and coll things about it
 - Animation
 - Pesrpective
 - 3D
